@@ -1,5 +1,5 @@
 import {   createHashRouter,  RouterProvider } from 'react-router-dom';
-import Layout from './components/Layout/Layout';
+import Layout from "./components/Layout.jsx";
 import Home from './components/Home/Home';
 import Products from './components/Products/Products';
 import Login from './components/Login/Login';
